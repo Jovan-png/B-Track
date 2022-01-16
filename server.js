@@ -20,7 +20,7 @@ mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
-
+console.log(MONGODB_URI)
 // routes
 app.use(require("./routes/api.js"));
 
