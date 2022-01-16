@@ -1,7 +1,7 @@
 // create variable to hold db connection
 let db;
 
-const request = indexedDB.open('web_budget_db', 1);
+const request = indexedDB.open('Nudget-tracker', 1);
 
 request.onupgradeneeded = function(event) {
 
