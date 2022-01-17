@@ -6,6 +6,8 @@
 This application allow you to input your finances whether you're connected to the internet or offline it saves all of your expenses free of charge.
 It also allows you to save the application to your desktop for ease of access.
 
+
+Here is a direct [Link](https://glacial-beyond-43073.herokuapp.com/) to the deployed application.
  
 ## Tables Of Contents
 
